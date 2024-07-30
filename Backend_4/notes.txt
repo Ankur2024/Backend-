@@ -1,0 +1,8 @@
+-- what is nodejs ?
+
+v8 engine which is used in chrome engine. 
+v8 + c++ engine = nodejs
+You can run js outside of the browser
+JS can talk to native machine because of c++
+you can create webserver in js language
+Nodes is a runtime enviornment for js
