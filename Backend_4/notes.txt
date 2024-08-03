@@ -6,3 +6,18 @@ You can run js outside of the browser
 JS can talk to native machine because of c++
 you can create webserver in js language
 Nodes is a runtime enviornment for js
+
+
+what is module?
+-> when we divide a small program in different modules, this is called modular programming.
+
+default & single exports
+module.exports = {add, sub};
+
+--> multiple exports 
+exports.add = (a, b)  => {
+    return a+b
+}
+exports.sub = (a, b)  => {
+    return a-b
+}
