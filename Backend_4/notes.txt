@@ -21,3 +21,10 @@ exports.add = (a, b)  => {
 exports.sub = (a, b)  => {
     return a-b
 }
+
+< -- HTTP Method --> 
+
+|| HTTP GET ||
+    :- when you want to get some data from the server.
+|| HTTP POST ||
+    :- when you want to send and mutate some data in server.
